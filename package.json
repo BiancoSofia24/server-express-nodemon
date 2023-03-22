@@ -1,5 +1,5 @@
 {
-  "name": "server-start",
+  "name": "server-express-nodemon",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
